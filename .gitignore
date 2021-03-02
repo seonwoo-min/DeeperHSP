@@ -1,0 +1,7 @@
+/data
+/results
+*.idea
+*.ipynb_checkpoints
+*.ipynb
+*.sh
+*backup*
