@@ -1,0 +1,6 @@
+{
+"embedder": "ESM",
+"embed_dim": 20,
+"num_channels": 200,
+"kernel_size": 5
+}

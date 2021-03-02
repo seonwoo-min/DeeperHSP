@@ -1,0 +1,5 @@
+{
+"embedder": "OneHot",
+"num_channels": 500,
+"kernel_size": 5
+}
