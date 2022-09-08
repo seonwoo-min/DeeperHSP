@@ -14,11 +14,11 @@ CUDA_VISIBLE_DEVICES=0 python evaluate_model.py --data-config config/data/HSP_te
 <br/>
 
 ## HSP Datasets
-- <a href="https://www.dropbox.com/s/pdsuxboaehx8sgg/FASTA.tar.gz?dl=0">FASTA</a> : 
+- <a href="https://drive.google.com/file/d/1vul3BHSM7HhbTXI7__9VhmzzbkeX45KT/view?usp=sharing">FASTA</a> : 
   FASTA files for generating OneHot/ESM embeddings (CV and Test datasets)
-- <a href="https://www.dropbox.com/s/mstmdig8mv3es5t/OneHot_test.tar.gz?dl=0">OneHot</a> :
+- <a href="https://drive.google.com/file/d/1yJwTt5G6s8vYTOjpA2reyorqDESSkod2/view?usp=sharing">OneHot</a> :
   DeepHSP OneHot embedding files (Test dataset) 
-- <a href="https://www.dropbox.com/s/zs8jvm6el5r4k12/ESM_test.tar.gz?dl=0">ESM</a> :
+- <a href="https://drive.google.com/file/d/1lUoSM39WxkdhhIrfNg-f7tf49uQEe7ff/view?usp=sharing">ESM</a> :
   DeeperHSP ESM embedding files (Test dataset)
 <br/>
   
